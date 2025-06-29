@@ -62,9 +62,3 @@ voice2care/
 ├── requirements.txt             # Dipendenze del progetto
 └── README.md                    # Questo file
 ```
-
----
-
-## 📌 Note
-
-- I token e le API key sono temporaneamente inclusi nel file `config.py` per facilitare l’esecuzione del progetto.
