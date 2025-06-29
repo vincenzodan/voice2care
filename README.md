@@ -23,12 +23,12 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 
 2. **Avvio della prima dashboard**:
    ```bash
-   streamlit run ./voice2care/script/dashboard1.py
+   streamlit run script/dashboard1.py
    ```
 
 3. **Avvio della seconda dashboard**:
    ```bash
-   streamlit run ./voice2care/script/dashboard2.py
+   streamlit run script/dashboard2.py
    ```
 
 ### 🖥️ Esecuzione su Kaggle
