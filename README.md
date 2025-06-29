@@ -62,3 +62,8 @@ voice2care/
 ├── requirements.txt             # Dipendenze del progetto
 └── README.md                    # Questo file
 ```
+
+## 👥 Contributors
+
+- [@vincenzodan](https://github.com/vincenzodan)
+- [@GiorgioDiCostanzo](https://github.com/GiorgioDiCostanzo)
