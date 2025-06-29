@@ -65,5 +65,5 @@ voice2care/
 
 ## 👥 Contributors
 
-- [@vincenzodan](https://github.com/vincenzodan)
-- [@GiorgioDiCostanzo](https://github.com/GiorgioDiCostanzo)
+- [@Vincenzo D'Angelo](https://github.com/vincenzodan)
+- [@Giorgio Di Costanzo](https://github.com/GiorgioDiCostanzo)
