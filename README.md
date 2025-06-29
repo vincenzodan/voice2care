@@ -34,9 +34,9 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 ### 🖥️ Esecuzione su Kaggle
 
 1. Registrarsi su [Kaggle](https://www.kaggle.com) e verificare l’account con il numero di telefono per abilitare le GPU.
-2. Caricare il notebook su Kaggle.
+2. Caricare il notebook su Kaggle (per evitare errori andare in Advanced Setting: Version Type -> Quick Save).
 3. Caricare tutto il codice come *Dataset esterno*.
-4. Impostare il path del file `app.py` nell’ultima cella del notebook.
+4. Impostare il path del file `dashboard1.py` nell’ultima cella del notebook.
 5. Impostare il path del file `config.py` nella cella dedicata a Ngrok.
 6. Avviare tutte le celle del notebook.
 7. Quando lo streamlit è attivo, accedere al link fornito da Ngrok nella cella precedente.
@@ -45,7 +45,7 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
    ```bash
    streamlit run ./voice2care/script/dashboard2.py
    ```
-
+   🔹 *Nota: I token e le API key sono temporaneamente inclusi nel file config.py per facilitare l’esecuzione del progetto.
 ---
 
 ## 🗂️ Struttura del Progetto
@@ -71,7 +71,6 @@ voice2care/
 └── README.md                    # Istruzioni per installazione e uso del progetto
 
 ```
-
 ---
 
 ## 👥 Contributors
