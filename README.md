@@ -45,6 +45,7 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
    ```bash
    streamlit run ./voice2care/script/dashboard2.py
    ```
+   🔹 *Nota: I token e le API key sono temporaneamente inclusi nel file config.py per facilitare l’esecuzione del progetto.*
 ---
 
 ## 🗂️ Struttura del Progetto
@@ -70,7 +71,6 @@ voice2care/
 └── README.md                    # Istruzioni per installazione e uso del progetto
 
 ```
-   🔹 *Nota: I token e le API key sono temporaneamente inclusi nel file config.py per facilitare l’esecuzione del progetto.*
 ---
 
 ## 👥 Contributors
