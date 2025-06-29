@@ -1,12 +1,15 @@
 
-# 🩺 Voice2Care – Istruzioni per l'Esecuzione
+# 🩺 Voice2Care
+Voice2Care è un progetto che mira a semplificare la digitalizzazione dei dati clinici attraverso la trascrizione automatica di registrazioni audio e l’estrazione delle informazioni rilevanti in formato strutturato. 
+Nasce dall’esigenza di rendere la registrazione delle informazioni rapida ed efficiente in ambienti ad alta intensità, come il pronto soccorso o il pronto intervento, dove la velocità di azione è fondamentale.
 
 ## 📘 Documentazione Tecnica
 Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagli sul funzionamento del progetto.
 
 ---
+## 📖 Istruzioni per l'Esecuzione
 
-## 💻 Esecuzione Locale
+### 💻 Esecuzione Locale
 
 1. **Installare i requisiti** dal file `requirements.txt`:
    ```bash
@@ -30,7 +33,7 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 
 ---
 
-## 🖥️ Esecuzione su Kaggle
+### 🖥️ Esecuzione su Kaggle
 
 1. Registrarsi su [Kaggle](https://www.kaggle.com) e verificare l’account con il numero di telefono per abilitare le GPU.
 2. Caricare il notebook su Kaggle.
