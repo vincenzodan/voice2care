@@ -52,14 +52,21 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 ```
 voice2care/
 │
-├── script/
-│   ├── app.py                   # Prima dashboard
-│   ├── dashboard_hospital.py    # Seconda dashboard
-│   ├── config.py                # Configurazioni Ngrok e API
-│   ├── report.py                # Generazione report PDF (con ReportLab)
-│   └── ...
 ├── dataset/                     # Dati di input
+├── script/
+│   ├── voice2care.ipynb                    # Generazione report PDF
+│   ├── testing.ipynb                    # Generazione report PDF
+│   ├── dashboard1.py                   # Prima dashboard
+│   ├── transcription.py                    # Generazione report PDF
+│   ├── extraction.py                    # Generazione report PDF
+│   ├── db.py                    # Generazione report PDF
+│   ├── report.py                # Generazione report PDF
+│   ├── dashboard2.py    # Seconda dashboard
+│   ├── config.py                # Configurazioni
+│   └── assets/
+├── working/
 ├── requirements.txt             # Dipendenze del progetto
+├── Documentazione.pdf             # Documentazione del progetto
 └── README.md                    # Questo file
 ```
 
