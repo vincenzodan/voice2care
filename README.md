@@ -31,8 +31,6 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
    streamlit run ./voice2care/script/dashboard2.py
    ```
 
----
-
 ### 🖥️ Esecuzione su Kaggle
 
 1. Registrarsi su [Kaggle](https://www.kaggle.com) e verificare l’account con il numero di telefono per abilitare le GPU.
@@ -73,6 +71,8 @@ voice2care/
 └── README.md                    # Istruzioni per installazione e uso del progetto
 
 ```
+
+---
 
 ## 👥 Contributors
 
