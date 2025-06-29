@@ -52,22 +52,23 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 ```
 voice2care/
 │
-├── dataset/                     # Dati di input
+├── dataset/                     # Dati di input (audio, file, ecc.)
 ├── script/
-│   ├── voice2care.ipynb                    # Generazione report PDF
-│   ├── testing.ipynb                    # Generazione report PDF
-│   ├── dashboard1.py                   # Prima dashboard
-│   ├── transcription.py                    # Generazione report PDF
-│   ├── extraction.py                    # Generazione report PDF
-│   ├── db.py                    # Generazione report PDF
-│   ├── report.py                # Generazione report PDF
-│   ├── dashboard2.py    # Seconda dashboard
-│   ├── config.py                # Configurazioni
-│   └── assets/
-├── working/
-├── requirements.txt             # Dipendenze del progetto
-├── Documentazione.pdf             # Documentazione del progetto
-└── README.md                    # Questo file
+│   ├── voice2care.ipynb         # Notebook per l'esecuzione su Kaggle
+│   ├── testing.ipynb            # Notebook per test
+│   ├── dashboard1.py            # Prima dashboard Streamlit
+│   ├── dashboard2.py            # Seconda dashboard Streamlit
+│   ├── transcription.py         # Modulo per trascrizione audio
+│   ├── extraction.py            # Modulo per estrazione dati
+│   ├── db.py                    # Modulo per interazione con il database MongoDB
+│   ├── report.py                # Modulo per la generazione del report PDF
+│   ├── config.py                # File di configurazione (token, chiavi API, ecc.)
+│   └── assets/                  # Risorse aggiuntive (immagini, loghi, ecc.)
+├── working/                     # Cartella per output testing
+├── requirements.txt             # Elenco delle dipendenze Python necessarie
+├── Documentazione.pdf           # Documentazione completa del progetto
+└── README.md                    # Istruzioni per installazione e uso del progetto
+
 ```
 
 ## 👥 Contributors
