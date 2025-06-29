@@ -1,12 +1,12 @@
 
-# 🗣️ Voice2Care – Istruzioni per l'Esecuzione
+# 🩺 Voice2Care – Istruzioni per l'Esecuzione
 
 ## 📘 Documentazione Tecnica
 Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagli sul funzionamento del progetto.
 
 ---
 
-## ✅ Esecuzione Locale
+## 💻 Esecuzione Locale
 
 1. **Installare i requisiti** dal file `requirements.txt`:
    ```bash
@@ -30,7 +30,7 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 
 ---
 
-## 🧪 Esecuzione su Kaggle
+## 🖥️ Esecuzione su Kaggle
 
 1. Registrarsi su [Kaggle](https://www.kaggle.com) e verificare l’account con il numero di telefono per abilitare le GPU.
 2. Caricare il notebook su Kaggle.
@@ -47,7 +47,7 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 
 ---
 
-## 🧾 Struttura del Progetto
+## 🗂️ Struttura del Progetto
 
 ```
 voice2care/
