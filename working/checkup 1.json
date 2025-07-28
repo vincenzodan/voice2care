@@ -1,0 +1,14 @@
+{
+    "first_name": "Luca",
+    "last_name": "Ferraro",
+    "medications_taken": "Moxicillin for respiratory infection",
+    "symptoms": "Mild fatigue",
+    "heart_rate": "84",
+    "oxygenation": "97%",
+    "blood_pressure": "124/80 mmHg",
+    "temperature": "37.8 °C",
+    "blood_glucose": "98 mg/dL",
+    "medical_actions": "Blood tests pending review",
+    "assessment": "Mild alterations in vital signs",
+    "plan": "Clinical monitoring over next 24 hours",
+}
