@@ -7,6 +7,49 @@ Nasce dall’esigenza di rendere la registrazione delle informazioni rapida ed e
 Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagli sul funzionamento del progetto.
 
 ---
+## 🛠️ Technologies
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>
+        MongoDB
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>
+        Python
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>
+        MongoDB
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>
+        Python
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/openai/whisper" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" height="50"/><br>
+        Whisper
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cs230-stanford/Gemma" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Gemma_icon.png" width="50" height="50"/><br>
+        Gemma
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📖 Istruzioni per l'Esecuzione
 
 ### 💻 Esecuzione Locale
