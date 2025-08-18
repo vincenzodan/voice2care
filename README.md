@@ -25,7 +25,7 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
     </td>
     <td align="center">
       <a href="https://huggingface.co/openai/whisper-medium" target="_blank">
-        <img width="3000" height="3000" alt="openai-icon" src="https://github.com/user-attachments/assets/fc795969-26da-4c45-a6de-4fd99591918e" /><br>
+        <img width="50" height="50" alt="openai-icon" src="https://github.com/user-attachments/assets/fc795969-26da-4c45-a6de-4fd99591918e" /><br>
         Whisper
       </a>
     </td>
