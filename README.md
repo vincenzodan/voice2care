@@ -24,13 +24,13 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/openai/whisper" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" height="50"/><br>
+      <a href="https://huggingface.co/openai/whisper-medium" target="_blank">
+        <img width="3000" height="3000" alt="openai-icon" src="https://github.com/user-attachments/assets/fc795969-26da-4c45-a6de-4fd99591918e" /><br>
         Whisper
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/cs230-stanford/Gemma" target="_blank">
+      <a href="https://huggingface.co/google/gemma-2b-it" target="_blank">
         <img width="50" height="50" alt="gemma-color" src="https://github.com/user-attachments/assets/d2b2ba36-6c90-4e74-aa87-b1d63126ff7a" /><br>
         Gemma
       </a>
