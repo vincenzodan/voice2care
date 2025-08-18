@@ -31,7 +31,7 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
     </td>
     <td align="center">
       <a href="https://github.com/cs230-stanford/Gemma" target="_blank">
-        <img src=<img width="1024" height="1024" alt="gemma-color" src="https://github.com/user-attachments/assets/d2b2ba36-6c90-4e74-aa87-b1d63126ff7a" />
+        <img width="1024" height="1024" alt="gemma-color" src="https://github.com/user-attachments/assets/d2b2ba36-6c90-4e74-aa87-b1d63126ff7a" />
         Gemma
       </a>
     </td>
