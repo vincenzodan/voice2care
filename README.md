@@ -1,4 +1,3 @@
-![gemma-color](https://github.com/user-attachments/assets/1be74599-7f8a-4a50-9fd6-0075a5df6eed)
 # 🩺 Voice2Care
 Voice2Care è un progetto che mira a semplificare la digitalizzazione dei dati clinici attraverso la trascrizione automatica di registrazioni audio e l’estrazione delle informazioni rilevanti in formato strutturato. 
 Nasce dall’esigenza di rendere la registrazione delle informazioni rapida ed efficiente in ambienti ad alta intensità, come il pronto soccorso o il pronto intervento, dove la velocità di azione è fondamentale.
